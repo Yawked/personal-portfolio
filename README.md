@@ -19,7 +19,7 @@ Esse repositório contém essas tais tecnologias :
 
 Desenvolvi o meu próprio site para poder compartilhar a minha tranjetória na programação e mostrar minhas skills no momento!
 
-## 🖼️ Tela Inicial : 
+
 
 
 

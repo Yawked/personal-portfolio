@@ -21,7 +21,6 @@ Desenvolvi o meu próprio site para poder compartilhar a minha tranjetória na p
 
 ## 🖼️ Tela Inicial : 
 
-![image](https://github.com/AdryanYawking)
 
 
 
